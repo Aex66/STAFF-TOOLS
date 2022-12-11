@@ -1,0 +1,35 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "STAFF TOOLS v1.0-beta",
+        "description": "§eUSE STAFF TOOLS TO CONTROL YOUR SERVER MEMBERS AS AN ADMIN",
+        "uuid": "edbc373d-00af-4678-8503-0ecc208cca4c",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "e5f1e0eb-8ccd-4468-a1a3-c025fd062e97",
+            "version": [ 1, 0, 0 ]
+        },
+        {
+            "description": "Javascript module",
+            "type": "script", 
+            "language": "javascript",
+            "uuid": "9775a0f4-9602-4cc4-b80c-4dacbac2fa7c",
+            "version": [ 0, 0, 1 ],
+            "entry": "main.js"
+        }
+    ],
+    "dependencies": [
+        {
+			"module_name": "@minecraft/server",
+			"version": "1.1.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+    ]
+}
