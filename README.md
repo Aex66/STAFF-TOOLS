@@ -50,5 +50,8 @@ In order to activate staff mode you must use the command **"?staffmode"** or **"
 -Invisible armor and invisible hand items (**Vanish benefit**)
 
 
-<h3>Download</h3>
+## Download
 <a href="https://www.mediafire.com/file/831wykmv34ehm71/STAFF_TOOLS_v1.0-beta.mcaddon/file" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/mediafire-1-3.svg" height="50" /></a>
+
+## MY SOCIAL NETWORKS
+<a href="https://www.youtube.com/channel/UCcb6TseFTpboFwgZM737IGA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" height="50" /></a>
